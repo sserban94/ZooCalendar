@@ -1,0 +1,15 @@
+{
+"name": "The Zoo",
+"short_name": "Zoo",
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#DAAD86",
+"description": "Zoo Calendar App.",
+"icons": [
+    {
+        "src": "zooResized.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+]
+}

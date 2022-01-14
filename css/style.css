@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-color: #DAAD86;
+}
+
+#canvas-container {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+#my-canvas {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+#carousel-inner {
+    width: 25%;
+    height: 50%;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+.d-block {
+    height: 80vh;
+    object-fit: contain;
+    
+}
+
+.animalCell {
+    margin-top: 50px;
+    border: 1px solid #555555;
+    height: 60px;
+    background-color: rgba(255,255,255,1);
+    border-radius: 100px;
+}
+
+h1 {
+    font-size:100px;
+    color: #659DBD;
+    margin: 10px;
+}
+
+.carousel-control-prev, carousel-control-next{
+    color: black;
+    font-size: 100px;
+    text-align: center;
+    margin-left: 50px;
+    display: block;
+}
+
+.navbar-custom {
+    background-color: #FBEEC1;
+    
+}
+
+.nav-link, .navbar-brand {
+    color: #4d4922 !important;
+}
+
+#searchVoiceBtn {
+    background-color: #4d4922 !important;
+}

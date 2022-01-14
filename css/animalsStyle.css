@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #555555(255,255,255,1)55;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    margin: 5px;
+    border: 6px double black;
+}
+
+p{
+    color: #659DBD;
+
+}
+
+
+
+.container {
+    position: relative;
+}
+
+
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1 { 
+    font-size:100px; 
+    color: #659DBD; 
+    margin: 10px;
+    
+}
+
+p{
+    font-size: 25px;
+    color: whitesmoke; 
+    border: 3px; 
+    border-style: solid; 
+    border-color: #4d4922 !important;
+}
+
+#searchVoiceBtn {
+    background-color: #555555(255,255,255,1) !important;
+}

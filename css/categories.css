@@ -1,0 +1,63 @@
+body {
+    padding: 0%;
+    margin-left: 50px;
+    text-align: center;
+    background-color: #DAAD86;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+
+
+
+/* #canvas-container {
+    width: 100%;
+    text-align: center;
+    padding: 50px 0px;
+} */
+
+/* #my-canvas {
+    height: 100%;
+    width: 100%;
+    display: block;
+} */
+
+/* #carousel-inner {
+    width: 25%;
+    height: 50%;
+    margin: 0 auto;
+    object-fit: contain;
+} */
+
+.d-block {
+    height: 80vh;
+    object-fit: contain;
+    
+}
+
+.animalCell {
+    object-fit: contain;
+    margin-top: 50px;
+    border: 1px solid #555555;
+    height: 100%;
+    width: 100%;
+    background-color: #555555(255,255,255,1);
+}
+
+h1 {
+    font-size:80px;
+    color: #659DBD;
+    margin: 10px;
+}
+
+.btn-categories-custom {
+    background-color: #FBEEC1;
+    border-color: #8D8741;
+    color: #8D8741;
+}
+
+#searchVoiceBtn {
+    background-color: #4d4922 !important;
+}
+
+
