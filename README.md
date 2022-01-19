@@ -1,2 +1,2 @@
-# ZooCalendar
-Zoo online calendar - html css js jquery practice. not finished yet
+# ZooCalendar (work in progress)
+Zoo online calendar - html css js jquery practice
